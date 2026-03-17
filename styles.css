@@ -10,3 +10,10 @@
   background:#3D26C7 ;
   color:white
  }
+
+ .lesson-select{
+  height: 200px;
+  width: 100%;
+  background: #f0eeeb;
+  padding: 50px;
+ }
